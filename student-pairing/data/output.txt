@@ -1,0 +1,63 @@
+
+Day 1
+qankreids, ghuzuns
+ginkruns, truts
+thruqo, scrongrins
+nuhod, feilvit
+nuhoil, zadhell
+
+Day 2
+qankreids, truts
+ghuzuns, scrongrins
+ginkruns, feilvit
+thruqo, zadhell
+nuhod, nuhoil
+
+Day 3
+qankreids, scrongrins
+truts, feilvit
+ghuzuns, zadhell
+ginkruns, nuhoil
+thruqo, nuhod
+
+Day 4
+qankreids, feilvit
+scrongrins, zadhell
+truts, nuhoil
+ghuzuns, nuhod
+ginkruns, thruqo
+
+Day 5
+qankreids, zadhell
+feilvit, nuhoil
+scrongrins, nuhod
+truts, thruqo
+ghuzuns, ginkruns
+
+Day 6
+qankreids, nuhoil
+zadhell, nuhod
+feilvit, thruqo
+scrongrins, ginkruns
+truts, ghuzuns
+
+Day 7
+qankreids, nuhod
+nuhoil, thruqo
+zadhell, ginkruns
+feilvit, ghuzuns
+scrongrins, truts
+
+Day 8
+qankreids, thruqo
+nuhod, ginkruns
+nuhoil, ghuzuns
+zadhell, truts
+feilvit, scrongrins
+
+Day 9
+qankreids, ginkruns
+thruqo, ghuzuns
+nuhod, truts
+nuhoil, scrongrins
+zadhell, feilvit

@@ -1,0 +1,2 @@
+{:linters {:unresolved-symbol {:exclude [(clara.rules/defrule)
+                                         (clara.rules/defquery)]}}}

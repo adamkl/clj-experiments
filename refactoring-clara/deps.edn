@@ -1,0 +1,4 @@
+{:paths ["src"]
+ :deps {org.clojure/clojure {:mvn/version "1.10.1"}
+        com.cerner/clara-rules {:mvn/version "0.21.0"}}
+ :aliases {:dev {:extra-paths ["dev"]}}}
